@@ -37,3 +37,5 @@ elseif total == 2 || total == 3 || total == 12
     puts "YOU LOSE!"
 else puts "THE POINT IS #{total}"
 end
+
+nothing = nill 

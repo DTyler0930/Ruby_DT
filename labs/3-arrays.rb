@@ -12,6 +12,13 @@
 # If the two lists contain the same item, only show it once!
 # Lastly, display each item in the list prepended with "buy ".
 
+shared_shopping_list = ["milk", "eggs", "beer","bacon","beer", "cookies", "apples"]
+#puts shared_shopping_list
+
+
+sorted_shared_shopping_list = shared_shopping_list.sort
+puts sorted_shared_shopping_list
+
 # HINTS
 # Learn to read the documentation!
 # https://ruby-doc.org/core-2.7.0/Array.html
